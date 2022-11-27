@@ -1,0 +1,55 @@
+body{
+  background-image: url("background.jpg");
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 20px;
+  background-size: cover;
+} /* impostazioni CSS body */
+
+
+#contenitore{
+  background-color: rgb(0, 0, 0, 0.5);
+  margin: 50px;
+  padding:30px;
+  border-radius: 5px;
+} /* impostazioni CSS contenitore */
+
+.logo{
+  width: 300px;
+} /* impostazioni CSS dimensioni logo */
+
+#titolo{
+  text-align: center;
+  color: lime;
+} /* impostazioni CSS slogan */
+
+#bottoni{
+  background-color: #00C500;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 5px;
+} /* impostazioni CSS bottoni */
+
+#prenotazioni{
+  margin-left: 50px;
+  margin-right: 50px;
+} /* impostazioni CSS prenotazioni */
+
+#batteria1{
+  padding: 15px;
+  margin-right: 800px;
+  margin-top: 5px;
+  background-color: orange;
+  border-radius: 5px;
+} /* impostazioni CSS batteria1 */
+
+#batteria2{
+  padding: 15px;
+  margin-right: 200px;
+  margin-top: 5px;
+  background-color: green;
+  border-radius: 5px;
+} /* impostazioni CSS batteria2 */
